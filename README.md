@@ -3,13 +3,13 @@
 
 Contributors: Raymond (https://github.com/Electronic-Yoda), Stephen (https://github.com/Stephenwang3801)
 
-###HOW TO PLAY
+### HOW TO PLAY
 
 - Set up the DE1-Soc development board or a software simulation of the board.
 If using a real board, connect a PS/2 Keyboard to the board's PS2 port.
 
 
-##In Game
+## In Game
 
 - Menu: use enter to play, shift for help, and esc to quit.
 
@@ -18,7 +18,7 @@ If using a real board, connect a PS/2 Keyboard to the board's PS2 port.
 - Press esc anytime to quit the round to main menu
 - Try to avoid as many obstacles as possible as the score increases
 
-##Game over
+## Game over
 
 - Press enter to play again or esc to quit to main menu
 - Your score for the round and highscore (in previous rounds) are shown in grey text at the bottom
