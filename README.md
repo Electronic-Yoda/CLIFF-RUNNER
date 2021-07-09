@@ -3,10 +3,12 @@
 
 Contributors: Raymond (https://github.com/Electronic-Yoda), Stephen (https://github.com/Stephenwang3801)
 
+
 *HOW TO PLAY*
 
 Set up the DE1-Soc development board or a software simulation of the board.
 If using a real board, connect a PS/2 Keyboard to the board's PS2 port.
+
 
 *In Game*
 
